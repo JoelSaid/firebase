@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575774137840",
+    "project_id": "fir-joel-d106a",
+    "storage_bucket": "fir-joel-d106a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575774137840:android:4f4af937052e8e92de1135",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575774137840-9nujfq6idvusp09be6gfuab3n07kibj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBW8mStCjM5OMe1chW6AkoaYn57dS-LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575774137840-9nujfq6idvusp09be6gfuab3n07kibj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
